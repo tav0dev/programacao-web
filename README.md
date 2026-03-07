@@ -3,4 +3,4 @@
 Repositório central da disciplina, contendo resumos de todas as informações apresentadas em aula.
 
 **Grupo:**  
-Gustavo Cuba, Lauren Campos e Victor Furtado.
+Gustavo Cuba e Lauren Campos.
