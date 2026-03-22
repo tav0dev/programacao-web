@@ -161,7 +161,7 @@ Sites podem ser divididos em várias páginas HTML interligadas por navegação.
 3. Versionar o projeto com Git  
 4. Realizar o deploy utilizando Vercel  
 
-Projeto publicado: https://devedor-tranquilao.vercel.app/
+> 🔗 **Projeto concluído:** O link do repositório é [https://github.com/tav0dev/devedor-tranquilao](https://github.com/tav0dev/devedor-tranquilao). Toda a documentação do processo e o link do site publicado estão disponíveis neste repositório!
 
 ---
 
