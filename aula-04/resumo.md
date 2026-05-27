@@ -142,4 +142,4 @@ A aula 04 apresentou os fundamentos de **infraestrutura web**, mostrando como um
 
 > WordPress tem plugin até pra fazer café! Brincadeiras à parte, é muito prático ver tudo funcionando rapidinho.
 
-<img src="https://media.giphy.com/media/xT9DPm0EqKLKGEJ1Ru/giphy.gif" width="250">
+![Coffee](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjJqOHcxM3VrMTJieG53YXI4aTJ1c2c1ZDNsaWVicG1qamNiMmE1MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ceeFbVxiZzMBi/giphy.gif)

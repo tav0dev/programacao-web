@@ -85,4 +85,4 @@ A aula 08 teve um forte caráter prático, demonstrando desde a criação por li
 
 > Fazer o deploy de 3 projetos ao mesmo tempo me fez sentir uma verdadeira máquina produtiva! Vercel é vida.
 
-<img src="https://media.giphy.com/media/l1AsAMOkYjwteLRkc/giphy.gif" width="250">
+![Máquina Produtiva](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnA0cThvZ3dpcjVmcnl1N2Z0NHp4aWtoNGF6dWV1cWtna21vZWk2ZCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif)

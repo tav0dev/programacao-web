@@ -146,4 +146,4 @@ A aula 06 destacou como os Website Builders, aliados à Inteligência Artificial
 
 > Fazer um site sem escrever código é quase trapaça, mas salva o dia quando o prazo tá apertado!
 
-<img src="https://media.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.gif" width="250">
+![Roll Safe](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXp4dWZ5bm0yanhyNzU4Z2x6eWFjczNyNHdwMjh4bW8xZ3NxNm4yciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/d3mlE7uhX8KFgEmY/giphy.gif)

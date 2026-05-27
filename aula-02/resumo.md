@@ -77,4 +77,4 @@ A aula 02 estabeleceu os fundamentos de engenharia de requisitos e design de int
 
 > User Stories salvam vidas! Escrever o que o usuário quer antes de codar evita 90% das dores de cabeça.
 
-<img src="https://media.giphy.com/media/l0NwHXQy3kUSfFFhm/giphy.gif" width="250">
+![Big Brain](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3F4aXM5Z2FwbzlsMmFxa3lnZWowbnRwa3R4eDdkZDBiOTF1aHl6diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TfelnmQ8VU3K/giphy.gif)

@@ -78,4 +78,4 @@ A aula 09 marcou a transição para o lado do servidor, explorando o uso do Expr
 
 > Finalmente no backend! Achei que o Express ia ser um bicho de sete cabeças, mas até que é tranquilo (tirando o CORS 😅). O deploy no Render salvou demais!
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250">
+![Hacker Cat](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVmd2xwczhmbzR6ZzU5ZDRrY2RyMDNkeGNwa2djZHB3cnJiaDJocCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4dt6rXq6nABilHTYM/giphy.gif)

@@ -171,5 +171,5 @@ A aula apresentou a disciplina, explicou o funcionamento do semestre, introduziu
 
 > Sobrevivemos à primeira aula! Formamos grupo, fizemos o Miro e já me sinto um desenvolvedor Sênior 😎
 
-<img src="https://media.giphy.com/media/l41lOebq7E1xG/giphy.gif" width="250">
+![Desenvolvedor Sênior](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmRzZjg5dW9uZndzNmMxdXgwbXM1Z2VsMmhvNDcya3R3YXQyOHU2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mogKjxg9fUQ2ZnmiRw/giphy.gif)
 

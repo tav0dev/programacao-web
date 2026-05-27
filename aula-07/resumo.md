@@ -95,4 +95,4 @@ A aula introduziu a necessidade e o funcionamento das bibliotecas e frameworks m
 
 > Adeus Vanilla JS, olá React! A componentização muda tudo.
 
-<img src="https://media.giphy.com/media/11P7GoTttUE1HO/giphy.gif" width="250">
+![Toy Story](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzBiNHE1NWk5YzlkeXp6c3Y3NHJkMWY1dnJsOWNmMHR2Z2h2bTQyYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rXeiGtu1wUNYxnaLad/giphy.gif)

@@ -175,4 +175,4 @@ A aula 05 consolidou os fundamentos do desenvolvimento web moderno, integrando e
 
 > HTML e CSS são a casa, mas o JavaScript é a energia elétrica! Muito massa ver tudo ganhando vida.
 
-<img src="https://media.giphy.com/media/m3R71R8PzD5dK/giphy.gif" width="250">
+![Energia Pura](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW9hMWwzeXpyczJudGxyZXgweTZjcnk5a3pidG90YXNjYjFmZDdueCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YEL7FJP6ed008/giphy.gif)

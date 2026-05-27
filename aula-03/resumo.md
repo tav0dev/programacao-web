@@ -241,4 +241,4 @@ essenciais do fluxo profissional de desenvolvimento de software.
 
 > Git resolve conflitos no código, mas na hora do Merge o conflito é na nossa mente mesmo 🤯 Vercel salvou no final!
 
-<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblWQ/giphy.gif" width="250">
+![Mind Blown](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FveXJ3Z2VlemRqY2JpYXA0Y2twdmE5OXJ1cWF1emRsZmU3NHd6ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WRQBXSCnEFJIuxktnw/giphy.gif)
