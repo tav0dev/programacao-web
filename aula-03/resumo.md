@@ -234,3 +234,11 @@ desenvolvimento colaborativo. Além disso, demonstrou como ferramentas
 modernas de deploy, como o Vercel, permitem transformar rapidamente um
 projeto local em uma aplicação acessível online, reforçando práticas
 essenciais do fluxo profissional de desenvolvimento de software.
+
+---
+
+### 💡 Observações do Aluno
+
+> Git resolve conflitos no código, mas na hora do Merge o conflito é na nossa mente mesmo 🤯 Vercel salvou no final!
+
+<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblWQ/giphy.gif" width="250">
