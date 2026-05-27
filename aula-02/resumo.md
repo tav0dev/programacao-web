@@ -70,3 +70,11 @@ Conforme as diretrizes da disciplina, as seguintes etapas foram realizadas:
 
 ## ✅ Conclusão
 A aula 02 estabeleceu os fundamentos de engenharia de requisitos e design de interface, enfatizando que um projeto bem planejado (com escopo definido e protótipos validados) reduz drasticamente o retrabalho durante a fase de codificação.
+
+---
+
+### 💡 Observações do Aluno
+
+> User Stories salvam vidas! Escrever o que o usuário quer antes de codar evita 90% das dores de cabeça.
+
+<img src="https://media.giphy.com/media/l0NwHXQy3kUSfFFhm/giphy.gif" width="250">
