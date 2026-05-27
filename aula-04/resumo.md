@@ -135,3 +135,11 @@ A atividade prática consistiu em:
 ## ✅ Conclusão
 
 A aula 04 apresentou os fundamentos de **infraestrutura web**, mostrando como um site sai do ambiente local e se torna acessível na internet. Além disso, destacou o papel dos CMS — especialmente o WordPress — como ferramentas poderosas para acelerar o desenvolvimento, permitindo criar aplicações completas com menos esforço técnico e alta flexibilidade.
+
+---
+
+### 💡 Observações do Aluno
+
+> WordPress tem plugin até pra fazer café! Brincadeiras à parte, é muito prático ver tudo funcionando rapidinho.
+
+<img src="https://media.giphy.com/media/xT9DPm0EqKLKGEJ1Ru/giphy.gif" width="250">
