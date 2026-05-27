@@ -71,3 +71,11 @@ A aula 09 marcou a transição para o lado do servidor, explorando o uso do Expr
 > **Front-end:**
 > - Repositório: [https://github.com/tav0dev/meu-projeto-frontend](https://github.com/tav0dev/meu-projeto-frontend)
 > - Site publicado (Vercel): [https://meu-projeto-frontend-six.vercel.app/](https://meu-projeto-frontend-six.vercel.app/)
+
+---
+
+### 💡 Observações do Aluno
+
+> Finalmente no backend! Achei que o Express ia ser um bicho de sete cabeças, mas até que é tranquilo (tirando o CORS 😅). O deploy no Render salvou demais!
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250">
