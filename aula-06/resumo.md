@@ -139,3 +139,11 @@ A aula 06 destacou como os Website Builders, aliados à Inteligência Artificial
 ---
 
 > 🔗 **Projeto concluído:** O link do repositório é [https://github.com/tav0dev/nation-ascend](https://github.com/tav0dev/nation-ascend) e o site publicado está em [https://nation-ascend.vercel.app/](https://nation-ascend.vercel.app/).
+
+---
+
+### 💡 Observações do Aluno
+
+> Fazer um site sem escrever código é quase trapaça, mas salva o dia quando o prazo tá apertado!
+
+<img src="https://media.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.gif" width="250">
