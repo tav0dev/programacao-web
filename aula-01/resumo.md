@@ -165,3 +165,11 @@ Onde:
 
 A aula apresentou a disciplina, explicou o funcionamento do semestre, introduziu os fundamentos de Programação Web e definiu a primeira atividade prática em grupo.
 
+---
+
+### 💡 Observações do Aluno
+
+> Sobrevivemos à primeira aula! Formamos grupo, fizemos o Miro e já me sinto um desenvolvedor Sênior 😎
+
+<img src="https://media.giphy.com/media/l41lOebq7E1xG/giphy.gif" width="250">
+
