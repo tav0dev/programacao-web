@@ -135,3 +135,7 @@ A aula propõe a análise de soluções para um site institucional, considerando
 ## ✅ Conclusão
 
 A aula 06 destacou como os Website Builders, aliados à Inteligência Artificial, estão simplificando o desenvolvimento web. Essas ferramentas permitem criar sites de forma rápida e acessível, reduzindo a barreira técnica e acelerando a criação de soluções digitais, embora com limitações em personalização avançada.
+
+---
+
+> 🔗 **Projeto concluído:** O link do repositório é [https://github.com/tav0dev/nation-ascend](https://github.com/tav0dev/nation-ascend) e o site publicado está em [https://nation-ascend.vercel.app/](https://nation-ascend.vercel.app/).
