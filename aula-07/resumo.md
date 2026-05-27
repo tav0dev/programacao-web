@@ -88,3 +88,11 @@ A aula introduziu a necessidade e o funcionamento das bibliotecas e frameworks m
 ---
 
 > 🔗 **Projeto concluído:** O link do repositório é [https://github.com/tav0dev/meu-projeto-react](https://github.com/tav0dev/meu-projeto-react) e o site publicado está em [https://meu-projeto-react-bay.vercel.app/](https://meu-projeto-react-bay.vercel.app/).
+
+---
+
+### 💡 Observações do Aluno
+
+> Adeus Vanilla JS, olá React! A componentização muda tudo.
+
+<img src="https://media.giphy.com/media/11P7GoTttUE1HO/giphy.gif" width="250">
