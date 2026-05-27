@@ -168,3 +168,11 @@ Sites podem ser divididos em várias páginas HTML interligadas por navegação.
 ## ✅ Conclusão
 
 A aula 05 consolidou os fundamentos do desenvolvimento web moderno, integrando estrutura, estilo e comportamento em uma aplicação completa.
+
+---
+
+### 💡 Observações do Aluno
+
+> HTML e CSS são a casa, mas o JavaScript é a energia elétrica! Muito massa ver tudo ganhando vida.
+
+<img src="https://media.giphy.com/media/m3R71R8PzD5dK/giphy.gif" width="250">
