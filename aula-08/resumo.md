@@ -78,3 +78,11 @@ A aula 08 teve um forte caráter prático, demonstrando desde a criação por li
 > - Site publicado: [https://meu-projeto-vue-blush.vercel.app/](https://meu-projeto-vue-blush.vercel.app/)
 >
 > *(O projeto em React correspondente a esta atividade foi documentado na aula 07)*
+
+---
+
+### 💡 Observações do Aluno
+
+> Fazer o deploy de 3 projetos ao mesmo tempo me fez sentir uma verdadeira máquina produtiva! Vercel é vida.
+
+<img src="https://media.giphy.com/media/l1AsAMOkYjwteLRkc/giphy.gif" width="250">
