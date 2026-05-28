@@ -129,6 +129,7 @@ A atividade prática consistiu em:
 6. Documentar todo o processo no repositório do projeto.  
 
 > 🔗 **Projeto publicado:** https://dev-tav0.pantheonsite.io/
+> *(Nota: Como este projeto utilizou hospedagem gerenciada com WordPress, não há repositório no GitHub. A documentação pode ser conferida diretamente no site publicado ou nas configurações internas do CMS.)*
 
 ---
 

@@ -138,7 +138,7 @@ A aula 06 destacou como os Website Builders, aliados à Inteligência Artificial
 
 ---
 
-> 🔗 **Projeto concluído:** O link do repositório é [https://github.com/tav0dev/nation-ascend](https://github.com/tav0dev/nation-ascend) e o site publicado está em [https://nation-ascend.vercel.app/](https://nation-ascend.vercel.app/).
+> 🔗 **Projeto concluído:** O link do repositório é [https://github.com/tav0dev/nation-ascend](https://github.com/tav0dev/nation-ascend) e o site publicado está em [https://nation-ascend.vercel.app/](https://nation-ascend.vercel.app/). Toda a documentação do processo está disponível **no próprio repositório do projeto no GitHub**.
 
 ---
 

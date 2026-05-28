@@ -68,6 +68,7 @@ A aula 08 teve um forte caráter prático, demonstrando desde a criação por li
 ---
 
 > 🔗 **Projetos concluídos (Repositórios e Deploy):**
+> *(A documentação das etapas para os projetos Angular e Vue está disponível **nos seus respectivos repositórios no GitHub**).*
 > 
 > **Angular:**
 > - Repositório: [https://github.com/tav0dev/meu-projeto-angular](https://github.com/tav0dev/meu-projeto-angular)
@@ -77,7 +78,7 @@ A aula 08 teve um forte caráter prático, demonstrando desde a criação por li
 > - Repositório: [https://github.com/tav0dev/meu-projeto-vue](https://github.com/tav0dev/meu-projeto-vue)
 > - Site publicado: [https://meu-projeto-vue-blush.vercel.app/](https://meu-projeto-vue-blush.vercel.app/)
 >
-> *(O projeto em React correspondente a esta atividade foi documentado na aula 07)*
+> *(O projeto em React correspondente a esta atividade foi documentado e referenciado na aula 07 deste mesmo repositório)*
 
 ---
 

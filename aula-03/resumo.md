@@ -222,7 +222,7 @@ A atividade prática consistiu em:
     -   link do repositório no GitHub;
     -   link do site publicado.
 
-> 🔗 **Projeto concluído:** O link do repositório é [https://github.com/tav0dev/fish-academy](https://github.com/tav0dev/fish-academy) e o site publicado está em [https://fish-academy.vercel.app/](https://fish-academy.vercel.app/). Toda a documentação do processo está disponível neste repositório!
+> 🔗 **Projeto concluído:** O link do repositório é [https://github.com/tav0dev/fish-academy](https://github.com/tav0dev/fish-academy) e o site publicado está em [https://fish-academy.vercel.app/](https://fish-academy.vercel.app/). Toda a documentação do processo (prints, justificativas de design) está disponível **no próprio repositório do projeto no GitHub**.
 
 ------------------------------------------------------------------------
 

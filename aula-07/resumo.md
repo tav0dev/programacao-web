@@ -87,7 +87,7 @@ A aula introduziu a necessidade e o funcionamento das bibliotecas e frameworks m
 
 ---
 
-> 🔗 **Projeto concluído:** O link do repositório é [https://github.com/tav0dev/meu-projeto-react](https://github.com/tav0dev/meu-projeto-react) e o site publicado está em [https://meu-projeto-react-bay.vercel.app/](https://meu-projeto-react-bay.vercel.app/).
+> 🔗 **Projeto concluído:** O link do repositório é [https://github.com/tav0dev/meu-projeto-react](https://github.com/tav0dev/meu-projeto-react) e o site publicado está em [https://meu-projeto-react-bay.vercel.app/](https://meu-projeto-react-bay.vercel.app/). A documentação dos elementos e a escolha da estilização encontram-se **no próprio repositório do projeto**.
 
 ---
 

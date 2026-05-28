@@ -63,6 +63,7 @@ A aula 09 marcou a transição para o lado do servidor, explorando o uso do Expr
 ---
 
 > 🔗 **Projetos concluídos (Deploy e Repositórios):**
+> *(A documentação com os prints de funcionamento encontra-se **nos respectivos repositórios de cada projeto no GitHub**).*
 > 
 > **Back-end (API Express):**
 > - Repositório: [https://github.com/tav0dev/meu-projeto-express](https://github.com/tav0dev/meu-projeto-express)
